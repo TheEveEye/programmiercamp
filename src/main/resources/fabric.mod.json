@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "test_mod",
+  "version": "${version}",
+
+  "name": "Test Mod",
+  "description": "Das ist die Test Mod! An ihr lernt ihr, wie man Mods programmiert.",
+  "authors": [
+    "Jurek", "Dennis"
+  ],
+  "icon": "",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "programmiercamp.TestMod"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "1.18"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
