@@ -1,13 +1,12 @@
 package programmiercamp;
 
-import net.fabricmc.api.ModInitializer;
+import net.fabricmc.api.ModInitializer; // su595 was here! follow me on github lol
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
 import net.minecraft.entity.passive.SheepEntity;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.sound.BlockSoundGroup;
-
 import programmiercamp.registry.Mod;
 import programmiercamp.registry.ModBlocks;
 
