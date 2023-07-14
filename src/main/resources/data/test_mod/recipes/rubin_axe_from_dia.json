@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "test_mod:rubin"
+  },
+  "result": {
+    "item": "test_mod:rubin_axt"
+  }
+}

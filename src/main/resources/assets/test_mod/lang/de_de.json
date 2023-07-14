@@ -15,6 +15,13 @@
   "block.test_mod.deepslate_citrine_ore": "Tiefenschiefer-Zitrinerz",
   "block.test_mod.citrine_stairs": "Zitrintreppen",
 
+  "item.test_mod.iron_rod": "Eisenstange",
+  "item.test_mod.citrine_sword": "Zitrinschwert",
+  "item.test_mod.citrine_sledgehammer": "Zitrinhammer",
+  "item.test_mod.citrine_pickaxe": "Zitrinspitzhacke",
+  "item.test_mod.citrine_spade": "Zitrinspaten",
+  "item.test_mod.citrine_hoe": "Zitrinhacke",
+
   "item.test_mod.phenylacetone": "Phenylacetone",
   "item.test_mod.phenylalanin_tablets": "Phenylalanin Tabeletten"
 }

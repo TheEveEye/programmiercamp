@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#/#",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "test_mod:citrine"
+    },
+    "/": {
+      "item": "test_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "test_mod:citrine_sledgehammer",
+    "count": 1
+  }
+}

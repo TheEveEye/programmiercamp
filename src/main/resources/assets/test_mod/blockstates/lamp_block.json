@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "test_mod:block/lamp_block"
+    },
+    "lit=true": {
+      "model": "test_mod:block/lamp_block_on"
+    }
+  }
+}
